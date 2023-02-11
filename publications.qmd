@@ -4,9 +4,6 @@ echo: false
 jupyter: python3
 section-divs: false
 keep-md: true
-format:
-    html:
-      fontsize: 1.0em
 ---
 
 ```{python}

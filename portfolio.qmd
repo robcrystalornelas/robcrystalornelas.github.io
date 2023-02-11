@@ -2,9 +2,6 @@
 title: "Portfolio"
 format: html
 editor: source
-format:
-    html:
-      fontsize: 1.0em
 ---
 
 A full list of the projects I’m working on can be found on [GitHub](https://github.com/robcrystalornelas).

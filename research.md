@@ -3,9 +3,6 @@ title: Research
 echo: false
 section-divs: false
 keep-md: true
-format:
-  html:
-    fontsize: 0.8em
 ---
 
 

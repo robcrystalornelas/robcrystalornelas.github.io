@@ -3,9 +3,6 @@ title: Publications
 echo: false
 section-divs: false
 keep-md: true
-format:
-  html:
-    fontsize: 1.0em
 ---
 
 

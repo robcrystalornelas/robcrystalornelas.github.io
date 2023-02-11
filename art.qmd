@@ -2,9 +2,6 @@
 title: "Art"
 format: html
 editor: source
-format:
-    html:
-      fontsize: 1.0em
 ---
 
 ::: {layout-nrow="1"}

@@ -1,8 +1,5 @@
 ---
 title: "Resume"
-format:
-    html:
-      fontsize: 1.0em
 ---
 
 I'm a **Data Analyst III at GitHub** in San Francisco, California 🌉
