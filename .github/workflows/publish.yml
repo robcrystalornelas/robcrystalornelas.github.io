@@ -14,13 +14,10 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Install Python and Dependencies
-        uses: actions/setup-python@v4
+      - name: Install Python dependencies
+        uses: py-actions/py-dependency-install@v4
         with:
-          python-version: '3.9'
-          cache: 'pip'
-          deps_list: 'requirements.txt'
-      - run: pip install -r requirements.txt
+          path: "requirements.txt"
 
       - name: Publish to GitHub Pages (and render)
         uses: quarto-dev/quarto-actions/publish@v2
