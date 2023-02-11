@@ -1,0 +1,43 @@
+---
+title: "Rob Crystal-Ornelas, PhD"
+description: "Data science & advanced security analytics at GitHub"
+page-layout: full
+image: /social-card.jpg
+resources: 
+    - "social-card.jpg"
+format:
+    html:
+        fontsize: 0.9em
+---
+
+::: column-page-inset
+::: column-page-inset-left
+💻 Data Analyst @ GitHub on the AI & Data team. My work supports GitHub Advanced Security.
+
+🌎 Previously: Postdoctoral Researcher in Data Standards at Lawrence Berkeley National Lab with research funded by the U.S. Department of Energy.
+
+:::
+
+::: {.column-margin .column-container}
+![](social-card.jpg){.rounded}
+:::
+:::
+
+{{< pagebreak >}}
+
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="https://github.com/robcrystalornelas" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role='img' aria-label='Github'></i>
+</a>
+<a class="btn btn-outline-dark", href="https://twitter.com/rob_c_ornelas" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-twitter" role='img' aria-label='Twitter'></i>
+</a>
+<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/robcrystalornelas/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i>
+</a>
+<a class="btn btn-outline-dark", href="mailto:robcrystalornelas@gmail.com" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='email'></i>
+</a>
+```
+:::

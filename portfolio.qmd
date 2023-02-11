@@ -1,0 +1,55 @@
+---
+title: "Portfolio"
+format: html
+editor: source
+format:
+    html:
+      fontsize: 1.0em
+---
+
+A full list of the projects I’m working on can be found on [GitHub](https://github.com/robcrystalornelas).
+
+## Data engineering for ML-ready data
+
+At Berkeley Lab, I led 6 teams of senior data scientists, software engineers, and informatics specialists who developed bioinformatics (meta)data standards for the Department of Energy's National Labs. I used natural language processing and statistical models in python to identify patterns in how data standards are developed and shared online.
+
+Within 2 years, this effort culminated in **5 peer-reviewed publications, 7 open access datasets, and 11 data standards that are in use**. Read more about this work in our paper in [*Nature Scientific Data*](https://www.nature.com/articles/sdata2018112).
+
+![Figure from [Crystal-Ornelas et al., 2021](https://doi.org/10.1029/2021EA001797)](images/contributing.jpeg){width="354"}
+
+## Timeseries Analysis of Economic Impacts
+
+I led a global collaboration with 8 scientists and analyzed a large semi-structured database. 
+
+I developed and reviewed **code in R** ([GitHub repository](https://github.com/robcrystalornelas/invacost_north_america)) to standardize the global database and **interpolate any missing cost values**. Our analysis identified an average US$21 billion dollar to the North American economy per year since 1960. 
+
+![Figure from [Crystal-Ornelas et al., 2021](https://doi.org/10.3897/neobiota.67.58038)](images/timeseries.jpeg){width="354"}
+
+Peer reviewed papers [here](https://doi.org/10.3897/neobiota.67.58038) and [here](https://doi.org/10.1016/j.scitotenv.2021.151318).
+
+## Multivariate mixed-effects models
+
+Expert in **multivariate Carbon sequestration models** for a 1 year data science postdoc position with University of Maryland and NGO, The Organic Center.
+
+I engineered a standardized database to help agriculture business and farmers choose the farming practices that optimize soil health.
+
+Find dode for this analysis in my [GitHub repository](https://github.com/robcrystalornelas/UMD_soil_health_scripts), and summary of results in my [white paper](https://www.organic-center.org/sites/default/files/Soil/the_organic_center_carbon_sequestration.pdf) and [peer reviewed publication](https://doi.org/10.1016/j.agee.2021.107356).
+
+![Figure from [Crystal-Ornelas et al., 2021](https://doi.org/10.1016/j.agee.2021.107356)](images/organic_systems.jpeg){width="354"}
+
+
+## Statistics textbook using R
+
+I’ve authored an [eBook on multivariate modeling and data science statistics in R](https://bookdown.org/robcrystalornelas/meta-analysis_of_ecological_data/). The book takes users **from engineering a standardized dataset**, to **running multivariate modeling algorithms**, to **checking for bias** in datasets.
+
+![Image from my statistics eBook](images/funnelplot.jpeg){width="354"}
+
+## Machine learning classification
+
+I leveraged a large publicly available dataset to predict a biosecurity threat using geospatial machine learning ensemble and maximum entropy models. 
+
+Code available for models on [GitHub](https://github.com/robcrystalornelas/whydah) and peer-reviewed paper is [here](https://doi.org/10.1650/CONDOR-16-150.1).
+
+Our research was highlighted in a [New York Times article](https://www.nytimes.com/2017/06/29/science/pin-tailed-whydahs.html), and I adapted this machine learning code into classroom material that I taught in a 1 week [coding bootcamp](https://github.com/robcrystalornelas/clubes_de_ciencias_SDMs).
+
+![Figure from [Crystal-Ornelas et al., 2017](https://doi.org/10.1650/CONDOR-16-150.1)](images/maps.jpeg){width="354"}

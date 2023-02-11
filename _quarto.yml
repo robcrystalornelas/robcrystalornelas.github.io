@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "✨"
+  site-url: https://www.robcrystalornelas.github.io
+  repo-url: https://github.com/robcrystalornelas/robcrystalornelas.github.io
+  open-graph: true
+  favicon: square.png
+  reader-mode: true
+  navbar:
+    background: '#967bb6'
+    foreground: dark
+    search: true
+    collapse-below: sm
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resume.qmd
+      - href: publications.qmd
+      - href: portfolio.qmd
+      - href: art.qmd
+  twitter-card: 
+    site: "@rob_c_ornelas"
+    card-style: "summary_large_image"
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+    toc-depth: 4
+    toc-title: "Contents"
+    html-math-method: katex
+    include-in-header:
+      - includes.html
+    highlight-style: tango
+
+execute:
+  freeze: auto

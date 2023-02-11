@@ -1,0 +1,147 @@
+---
+title: "Resume"
+format:
+    html:
+      fontsize: 1.0em
+---
+
+I'm a **Data Analyst III at GitHub** in San Francisco, California 🌉
+
+---
+
+### Key Skills
+- Led data modeling efforts to create more efficient and approable ETL data tables using Airflow for stakeholders.  
+
+-	Completed PhD degree in quantitative discipline with focus on collecting, analyzing, and interpreting data through machine learning models. Over 12 years programming in python, R, and SQL.  
+
+-	Analyzed large datasets (linear models, multivariate models, random forest, and time series analysis) and coded full-stack data science experiments in python (pandas, numpy, sklearn, R).
+
+-	Communicated with 6 cross-functional business and government teams and led efforts to define new data collection and analytical processes. Increased data repeatability and metric scalability by 5% each month.
+
+-	Worked with business and industry leaders to establish business needs. Translated questions valued at US$ 90 billion dollars into data science experiments. Identified practices that improve yields by 10%.
+
+-	Wrote 40 technical documents including scientific papers, government white papers, and executive summaries of research from 20 statistically rigorous machine learning experiments.
+
+---
+
+### Professional Experience
+::: {.d-flex .justify-content-between}
+::: {}
+**Data Analyst III**  
+:::
+::: {.text-end}
+August 2022 - Present
+:::
+:::
+*GitHub*
+
+- Created an Architecture Decision Record (ADR) and propose new data modeling to enable novel insight and help the company drive toward SLOs. 
+- Achieved stakeholder consensus on  ADR, and am currently building an ETL data pipeline using airflow to execute on the ADR.
+- I co-authored an analytics report on 2-factor authentication to create a more seamless sign-up and onboarding experience for our users. I used SQL and python to query data, create figures and produce statistics.
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Postdoctoral data scientist**  
+:::
+::: {.text-end}
+July 2020 - August 2022
+:::
+:::
+*Lawrence Berkeley National Lab*
+
+-	Led 6 agile and cross-functional teams of senior data scientists, ML engineers, and leadership at federal government’s National Labs to design 11 novel data collection and analytic pipelines.
+-	Served as liaison between cross-functional data science teams and community of 300 of senior scientists and engineers across the National Lab network.
+-	Supervised employees who build and deploy data visualization dashboards for 10 machine learning algorithms.
+
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Adjunct Professor of Statistics**  
+:::
+::: {.text-end}
+September 2019 - 2020
+:::
+:::
+*University of San Francisco*
+
+- Taught and communicates technical statistics course to 30 undergraduate students each semester.
+-	Developed all course material including presentations, coding exercises, exams, and homework assignments.
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Postdoctoral Data Scientist**  
+:::
+::: {.text-end}
+August 2019 - June 2020
+:::
+:::
+*University of Maryland and The Organic Center*
+
+-	Established end-to-end data science experiment impacting US$ 90 billion-dollar agriculture sector and improved yields by 10%.
+-	Defined new data collection opportunities to create novel database, implemented multivariate machine learning regression model in R, and published widely cited technical document.
+-	Spoke to over 220 business leaders with invited panel discussion about importance of carbon sequestration research and how our recommendations can impact future agricultural practices.
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Data Science Intern**  
+:::
+::: {.text-end}
+June 2018 - August 2018
+:::
+:::
+*DataONE*
+
+-	Planned and oversaw research team adopting GitHub as primary platform for collaboration on software.
+-	Wrote 2 technical documents and created 3 data visualizations to share recommendation about data curation and sharing practices. 
+-	Prioritized tasks during fast-paced summer internship and analyzed data sharing practices in top research publications.
+
+::: {.d-flex .justify-content-between}
+::: {}
+**PhD Student**  
+:::
+::: {.text-end}
+September 2014 - June 2019
+:::
+:::
+*Rutgers University*
+
+-	Built maximum entropy ML/AI classification algorithm and leveraged a large publicly available dataset to predict with 95% accuracy a US biosecurity threat using geospatial models.
+-	Applied machine learning multivariate imputation algorithm to clean and quality check time series data and making 10% more accurate inferences over time.
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Program Manager**  
+:::
+::: {.text-end}
+2011-2014
+:::
+:::
+*Providence After School Alliance*
+
+-	Created data dashboards for executive leadership to monitor program’s KPIs including budget and impact.
+-	Supervised team of 30 educators through a leadership style that combined setting clear expectations for high performance with patience for more junior employees.
+-	Trained Providence Public School District educators through 6 sessions to improve their pedagogical skills.
+
+---
+### Education
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Rutgers University**  
+PhD in Ecology and Evolution  
+Advisor: Julie Lockwood
+:::
+::: {.text-end}
+2019
+:::
+:::
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Boston University**  
+B.A. in Biology
+:::
+::: {.text-end}
+2008
+:::
+:::

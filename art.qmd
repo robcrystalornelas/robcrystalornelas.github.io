@@ -1,0 +1,76 @@
+---
+title: "Art"
+format: html
+editor: source
+format:
+    html:
+      fontsize: 1.0em
+---
+
+::: {layout-nrow="1"}
+![Owl, 2022](images/owl.jpeg){width="275"}
+
+![Sunflowers, 2022](images/sunflowers.jpeg){width="475"}
+:::
+
+::: {layout-nrow="1"}
+![Cactus, 2022](images/cactus.jpg){width="500"}
+:::
+
+::: {layout-nrow="1"}
+![Peregrine falcon, 2021](images/hawk.jpeg){width="354"}
+
+![Hawk silhouette, 2018](images/peregrine.jpeg){width="250"}
+:::
+
+::: {layout-nrow="1"}
+![Bat with diamonds, 2016](images/bat_with_diamonds.jpeg){width="600"}
+:::
+
+::: {layout-nrow="1"}
+![Bison skull for Manvir, 2016](images/bison.jpeg){width="300"}
+
+![California quail, 2019](images/california_quail.jpeg){width="350"}
+:::
+
+::: {layout-nrow="1"}
+![Elk skull, 2019](images/elk_skull.jpeg){width="200"}
+
+![Cactus wren in desert, 2019](images/cactus_wren.jpeg){width="350"}
+:::
+
+::: {layout-nrow="1"}
+![Bee, 2016](images/bee.jpeg){width="225"}
+
+![Mountains for Nick's hat, 2015](images/mountains_for_nicks_hat.jpeg){width="325"}
+:::
+
+::: {layout-nrow="1"}
+![Carolina chat, 2015](images/carolina_chat.jpeg){width="350"}
+
+![Starling, 2015](images/starling.jpeg){width="275"}
+:::
+
+::: {layout-nrow="1"}
+![Jackrabbit, 2019](images/rabbit.jpeg){width="250"}
+
+![Bikecamping in Sonoma, 2015](images/bike_camping_in_sonoma.jpeg){width="350"}
+:::
+
+::: {layout-nrow="1"}
+![Floral triptych, 2020](images/floral_triptych.jpeg){width="200"}
+
+![Bike and cactus, 2021](images/bike_and_cactus.jpeg){width="375"}
+:::
+
+::: {layout-nrow="1"}
+![Hiromi, 2015](images/hiromi.jpeg){width="300"}
+
+![Fox, 2018](images/fox.jpeg){width="275"}
+:::
+
+::: {layout-nrow="1"}
+![Orca for Alex, 2017](images/orca.jpeg){width="300"}
+
+![Big wave riding, 2017](images/surf.jpeg){width="300"}
+:::

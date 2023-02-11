@@ -1,0 +1,418 @@
+rept_form:
+  title: "Enabling FAIR data in Earth and environmental science with community-centric (meta)data reporting formats"
+  authors:
+    - me
+    - Charuleka Varadharajan
+    - Dylan O'Ryan
+    - Kathleen Beilsmith
+    - Ben Bond-Lamberty
+    - Kristin Boye
+    - Madison Burrus
+    - Shreyas Cholia
+    - Danielle S. Christianson
+    - Michael Crow
+    - Joan Damerow
+    - Kim S. Ely
+    - Amy E. Goldman
+    - Susan Heinz
+    - Valerie C. Hendrix
+    - Zarine Kakalia
+    - Kayla Mathes
+    - Stephanie C. Pennington
+    - Emily Robles
+    - Alistair Rogers
+    - Maegen Simmonds
+    - Terri Velliquette
+    - Pamela Weisenhorn
+    - Jessica N. Welch
+    - Karen Whitenack
+    - Deborah A. Agarwal
+  year: 2022
+  published_url: https://doi.org/10.1038/s41597-022-01606-w
+  venue: Nature Scientific Data
+  github: https://github.com/ess-dive-community
+share_code:
+  title: "Why don’t we share data and code? Perceived barriers and benefits to public archiving practices"
+  authors:
+    - Dylan G. E. Gomes
+    - Patrice Pottier
+    - me 
+    - Emma J. Hudgins
+    - Vivienne Foroughirad
+    - Luna L Sánchez-Reyes
+    - Rachel Turba
+    - Paula Andrea Martinez
+    - David Moreau
+    - Michael Bertram
+    - Cooper Smout
+    - Kaitlyn Gaynor
+  year: 2022
+  published_url: https://doi.org/10.1098/rspb.2022.1113
+  preprint: https://osf.io/preprints/metaarxiv/gaj43/
+  venue: Proceedings of the Royal Society Biological Sciences
+soil_resp_ma:
+  title: "Soil respiration response to simulated precipitation change depends on ecosystem type and duration of study"
+  authors:
+    - Kendalynn A. Morris
+    - Shoshi Hornum
+    - me
+    - Stephanie C. Pennington
+    - Ben Bond-Lamberty
+  year: 2022
+  published_url: https://doi.org/10.1029/2022JG006887
+  preprint: https://osf.io/preprints/metaarxiv/gaj43/
+  venue: JGR Biogeosciences
+  github: https://www.github.com/COMPASS-DOE/rs-synthesis
+github_ecoevo:
+  title: "Not just for programmers: A friendly guide to the benefits of GitHub for accelerating collaborative research in Ecology and Evolution"
+  authors:
+    - me
+    - Brandon Edwards
+    - Katherine Hébert
+    - Emma Hudgins
+    - Luna L. Sánchez Reyes
+    - Eric R. Scott
+    - Matthew J. Grainger 
+    - Vivienne Foroughirad
+    - Allison D. Binley
+    - Cole B. Brookson
+    - Kaitlyn M. Gaynor
+    - Saeed Shafiei Sabet
+    - Ali Güncan
+    - Friederike Hillemann
+    - Helen Weierbach
+    - Dylan G. E. Gomes
+    - Pedro Henrique Pereira Braga
+  year: 2022
+  preprint: https://osf.io/preprints/metaarxiv/x3p2q/
+  published_url:
+  venue: 
+  github: https://github.com/SORTEE-Github-Hackathon/manuscript
+deer_ma:
+  title: "Meta-analysis shows that overabundant deer (Cervidae) populations consistently decrease average population abundance and species richness of forest birds"
+  authors:
+    - me
+    - Jeffrey A. Brown
+    - Rafael E. Valentin
+    - Caroline Beardsley
+    - Julie L. Lockwood
+  year: 2021
+  published_url: https://doi.org/10.1093/ornithapp/duab040
+  venue: Ornithological Applications
+  github: https://github.com/robcrystalornelas/deer_ma
+geo_tax:
+  title: "Geographic and taxonomic drivers of rising biological invasion costs"
+  authors:
+    - Philip J. Harbruck
+    - Ross Cuthbert
+    - Emma J. Hudgins
+    - me 
+    - Melina Kourantidou
+    - Ana Novoa
+    - Desika Moodley
+    - Chonlong Liu
+    - Anna J. Turbelin
+    - Boris Leroy
+    - Franck Courchamp
+  year: 2022
+  published_url: https://doi.org/10.1016/j.scitotenv.2022.152948
+  venue: Science of the Total Environment
+icon:
+  title: "Earth and Space Science Informatics Perspectives on Integrated, Coordinated, Open, Networked (ICON) Science"
+  authors:
+    - Denise J. Hills
+    - Joan E. Damrow
+    - Bulbul Ahmed
+    - Nora Catolico
+    - Srija Chakraborty
+    - Caroline Coward
+    - me
+    - William Duncan
+    - Laxmi Goparaju
+    - Cindy Lin
+    - Zhong Liu
+    - Maruti Mudunuru
+    - Yuhan Rao
+    - Robert Rovetto
+    - Ziheng Sun
+    - Brandon Whitehead
+    - Lesly Wyborn
+    - Tian Yao
+  year: 2022
+  preprint: https://www.essoar.org/doi/10.1002/essoar.10508448.4
+  published_url: https://doi.org/10.1029/2021EA002108
+  venue: Earth and Space Science
+model_data:
+  title: "Guidelines for Publicly Archiving Terrestrial Model Data to Enhance Usability, Intercomparison, and Synthesis"
+  authors:
+    - Maegen B. Simmonds
+    - William Riley
+    - Deb Agarwal
+    - Xingyuan Chen
+    - Shreyas Cholia
+    - me
+    - Ethan T. Coon
+    - Dipankar Dwivedi
+    - Valerie C. Hendrix
+    - Maoyi Huang
+    - Ahmad Jan
+    - Zarine Kakalia
+    - Jitendra Kumar
+    - Charles D. Koven
+    - Li Li
+    - Mario Melara
+    - Lavanya Ramakrishnan
+    - Daniel M. Ricciuto
+    - Anthony P. Walker
+    - Wei Zhi
+    - Qing Zhu
+    - Charuleka Varadharajan
+  year: 2022
+  preprint: 
+  published_url: https://doi.org/10.5334/dsj-2022-003
+  github: https://github.com/ess-dive-community/essdive-model-data-archiving-guidelines
+  venue: Data Science Journal
+usa_cost:
+  title: "Economic costs of biological invasions in the United States"
+  authors:
+    - Jean Fantle-Lepczyk
+    - Philip J. Haubrock
+    - Andrew M. Kramer
+    - Ross N. Cuthbert
+    - Anna J. Turbelin
+    - me
+    - Christophe Diagne
+    - Franck Courchamp
+  year: 2022
+  preprint:
+  published_url: https://doi.org/10.1016/j.scitotenv.2021.151318
+  venue: Science of the Total Environment
+earth_ai:
+  title: "A review of Earth Artificial Intelligence"
+  authors:
+    - Ziheng Sun
+    - Laura Sandoval
+    - me
+    - S. Mostafa Mousavi
+    - Jinbo Wang 
+    - Cindy Lin
+    - Nicoleta Cristea
+    - Daniel Tong 
+    - Wendy Hawley Carande
+    - Xiaogang Ma
+    - Yuhan Rao
+    - James A. Bednar
+    - Amanda Tan
+    - Jianwu Wang
+    - Sanjay Purushotham
+    - Thomas E. Gill
+    - Julien Chastang
+    - Daniel Howard
+    - Benjamin Holt
+    - Chandana Gangodagamage
+    - Peisheng Zhao
+    - Pablo Rivas
+    - Zachary Chester
+    - Javier Orduz
+    - Aji John
+  year: 2022
+  preprint:
+  published_url: https://doi.org/10.1016/j.cageo.2022.105034
+  venue: Computers and Geosciences
+guide_to_github:
+  title: "A Guide to Using GitHub for Developing and Versioning Data Standards and Reporting Formats"
+  authors:
+    - me
+    - Charuleka Varadharajan
+    - Ben Bond-Lamberty
+    - Kristin Boye
+    - Madison Burrus
+    - Shreyas Cholia
+    - Michael Crow
+    - Joan Damerow
+    - Ranjeet Devarakonda
+    - Kim S. Ely
+    - Amy Goldman
+    - Susan Heinz
+    - Valerie Hendrix
+    - Zarine Kakalia,
+    - Stephanie C. Pennington
+    - Emily Robles
+    - Alistair Rogers
+    - Maegen Simmonds
+    - Terri Velliquette
+    - Helen Weierbach
+    - Pamela Weisenhorn
+    - Jessica N. Welch
+    - Deborah A. Agarwal
+  year: 2021
+  preprint:
+  published_url: https://doi.org/10.1029/2021EA001797
+  github: https://github.com/ess-dive-community/essdive-github-systematic-review
+  venue: Earth and Space Science 
+na_costs:
+  title: "Economic costs of biological invasions within North America"
+  authors:
+    - me
+    - Emma J. Hudgins
+    - Ross N. Cuthbert
+    - Phillip J. Haubrock
+    - Jean Fantle-Lepczyk
+    - Elena Angulo
+    - Andrew M. Kramer
+    - Liliana Ballesteros-Mejia
+    - Boris Leroy
+    - Brian Leung
+    - Eugenia López-López
+    - Christophe Diagne
+    - Franck Courchamp
+  year: 2021
+  preprint:
+  published_url: https://doi.org/10.3897/neobiota.67.58038
+  github: https://github.com/robcrystalornelas/invacost_north_america
+  venue: Neobiota
+soil_health:
+  title: "Soil organic carbon is affected by organic amendments, conservation tillage, and cover cropping in organic farming systems: A meta-analysis"
+  authors:
+    - me
+    - Resham Thapa
+    - Katherine L. Tully
+  year: 2021
+  preprint:
+  published_url: https://doi.org/10.1016/j.agee.2021.107356  
+  github: https://github.com/robcrystalornelas/soil_health_scripts
+  venue: Agriculture, Ecocsystems & Environment
+siol_rs_rf:
+  title: "A reporting format for field measurements of soil respiration"
+  authors:
+    - Ben Bond-Lamberty
+    - Danielle S. Christianson
+    - me
+    - Kayla Mathes
+    - Stephanie C. Pennington
+  year: 2021
+  preprint:
+  github: https://github.com/ess-dive-community/essdive-soil-respiration
+  published_url: https://doi.org/10.1016/j.ecoinf.2021.101280
+  venue: Ecological Informatics
+sample_rf:
+  title: "Sample identifiers and metadata to support data mnagement and reuse in multidisciplinary ecosystem sciences"
+  authors:
+    - Joan E. Damerow
+    - Charuleka Varadharajan
+    - Kristin Boye
+    - Eoin L. Brodie
+    - Madison Burrus
+    - K. Dana Chadwick
+    - me 
+    - Hesham Elbashandy
+    - Ricardo J. Eloy Alves
+    - Kim S. Ely
+    - Amy E. Goldman
+    - Ted Haberman
+    - Valerie Hendrix
+    - Zarine Kakalia
+    - ...
+    - Deborah Agarwal
+  year: 2021
+  preprint:
+  github: https://github.com/ess-dive-community/essdive-sample-id-metadata
+  published_url: https://doi.org/10.5334/dsj-2021-011
+  venue: Data Science Journal
+leaf_gas_rf:
+  title: "A reporting format for leaf-level gas exchange data and metadata"
+  authors:
+    - Kim S.Ely
+    - Alistair Rogers
+    - Deborah A.Agarwal
+    - Elizabeth A.Ainsworth
+    - Loren P.Albert
+    - Ashehad Ali
+    - Jeremiah Anderson
+    - Michael J.Aspinwall
+    - Chandra Bellasio
+    - Carl Bernacchi
+    - Steve Bonnage
+    - Thomas N. Buckley
+    - James Bunce
+    - Angela C.Burnett 
+    - Florian A.Busch
+    - Amanda Cavanagh
+    - Lucas A. Cernusak
+    - me
+    - Joan Damerow
+    - ...
+    - Dedi Yang
+  year: 2021
+  preprint:
+  github: https://github.com/ess-dive-community/essdive-leaf-gas-exchange
+  published_url: https://doi.org/10.1016/j.ecoinf.2021.101232
+  venue: Ecological Informatics
+esa_ss:
+  title: "Human Dimensions: The ESA Student Section"
+  authors:
+    - Anjali Boyd
+    - Kelsey E. Fisher
+    - Lukas Lamb-Wotton
+    - me
+  year: 2020
+  preprint:
+  published_url: https://doi.org/10.1002/bes2.1812
+  venue: The Bulletin of the Ecological Society of America
+invasion_cma:
+  title: "Cumulative meta-analysis identifies declining but negative impacts of invasive species on richness after 20 years"
+  authors:
+    - me
+    - Julie L. Lockwood
+  year: 2020
+  preprint: 
+  published_url: https://doi.org/10.1002/ecy.3082 
+  github: https://github.com/robcrystalornelas/invasion_decline_effect
+  venue: Ecology
+invasion_sys_rev:
+  title: "The ‘known unknowns’ of invasive species impact measurement"
+  authors:
+    - me
+    - Julie L. Lockwood
+  year: 2020
+  preprint:
+  github: https://github.com/robcrystalornelas/impacts_systematic_review
+  published_url: https://doi.org/10.1007/s10530-020-02200-0
+  venue: Biological Invasions
+art_sci:
+  title: "Art/Science Collaborations: New Explorations of Ecological Systems, Values, and their Feedbacks"
+  authors:
+    - Aaron M. Ellison
+    - Carri J. LeRoy
+    - Kim J. Landsbergen
+    - Emily Bosanquet
+    - David Buckley Borden
+    - Paul J. CaraDonna
+    - Katherine Cheney
+    - me
+    - Ardis DeFreece
+    - Lissy Goralnik
+    - Ellie Irons
+    - Bethann Garramon Merkle
+    - Kari E. B. O'Connell
+    - Clint A. Penick
+    - Lindsey Rustad
+    - Mark Schulze
+    - Nickolas M. Waser
+    - Linda M. Wysong
+  year: 2018 
+  preprint:
+  published_url: https://doi.org/10.1002/bes2.1384
+  venue: The Bulletin of the Ecological Society of America
+whydah:
+  title: "The establishment threat of the obligate brood-parasitic Pin-tailed Whydah (Vidua macroura) in North America and the Antilles"
+  authors:
+    - me
+    - Julie L. Lockwood
+    - Phil Cassey
+    - Mark Hauber
+  year: 2017
+  preprint:
+  published_url: https://doi.org/10.1650/CONDOR-16-150.1
+  github: https://github.com/robcrystalornelas/whydah
+  venue: The Condor
