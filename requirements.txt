@@ -1,2 +1,6 @@
 nbformat
 nbclient
+ipython
+ipykernel
+nbconvert
+nbsphinx
