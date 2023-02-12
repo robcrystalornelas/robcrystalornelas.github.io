@@ -14,7 +14,7 @@ format:
 ::: column-page-inset-left
 💻 Data Analyst @ GitHub on the AI & Data team. My work supports GitHub Advanced Security.
 
-🌎 Previously: Postdoctoral Researcher in Data Standards at Lawrence Berkeley National Lab with research funded by the U.S. Department of Energy.
+🌎 Previously: Postdoctoral Researcher in Data Standards at Lawrence Berkeley National Lab funded by the U.S. Department of Energy.
 
 :::
 
