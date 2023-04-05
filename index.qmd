@@ -1,6 +1,6 @@
 ---
 title: "Rob Crystal-Ornelas, PhD"
-description: "Data science & advanced security analytics at GitHub"
+description: ""
 page-layout: full
 image: /social-card.jpg
 resources: 
@@ -12,9 +12,9 @@ format:
 
 ::: column-page-inset
 ::: column-page-inset-left
-💻 Data Analyst @ GitHub on the AI & Data team. My work supports GitHub Advanced Security.
+💻 Data Analyst @ GitHub working on prompt crafting for copilot.
 
-🌎 Previously: Postdoctoral Researcher in Data Standards at Lawrence Berkeley National Lab funded by the U.S. Department of Energy.
+🌎 Previously, earth science researcher at Lawrence Berkeley National Lab. Check out my [**21 published papers here**](https://robcrystalornelas.github.io/publications.html)
 
 :::
 
