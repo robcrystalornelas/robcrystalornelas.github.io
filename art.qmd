@@ -19,9 +19,9 @@ editor: source
 :::
 
 ::: {layout-nrow="1"}
-![Peregrine falcon, 2021 // 💚 Available 💚](images/hawk.jpeg){width="354"}
+![Hawk silhouette, 2018](images/hawk.jpeg){width="354"}
 
-![Hawk silhouette, 2018](images/peregrine.jpeg){width="250"}
+![Peregrine falcon, 2021 // 💚 Available 💚](images/peregrine.jpeg){width="250"}
 :::
 
 ::: {layout-nrow="1"}
@@ -31,7 +31,7 @@ editor: source
 ::: {layout-nrow="1"}
 ![Bison skull for Manvir, 2016](images/bison.jpeg){width="300"}
 
-![California quail, 2019](images/california_quail.jpeg){width="350"}
+![California quail, 2019 // 💚 Available 💚](images/california_quail.jpeg){width="350"}
 :::
 
 ::: {layout-nrow="1"}
