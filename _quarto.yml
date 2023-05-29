@@ -32,8 +32,6 @@ format:
     toc-depth: 4
     toc-title: "Contents"
     html-math-method: katex
-    include-in-header:
-      - includes.html
     highlight-style: tango
 
 execute:
