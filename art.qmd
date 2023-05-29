@@ -19,6 +19,18 @@ editor: source
 :::
 
 ::: {layout-nrow="1"}
+![Yosemite sunset, 2020 // 💚 Available 💚](images/yosemite_sunset.jpeg){width="250"}
+
+![Miami, 2023 // 💚 Available 💚](images/miami.jpeg){width="250"}
+:::
+
+::: {layout-nrow="1"}
+![Mountains for Lara, 2015](images/hawk.jpeg){width="275"}
+
+![Egret, 2021 // 💚 Available 💚](images/egret.jpeg){width="275"}
+:::
+
+::: {layout-nrow="1"}
 ![Hawk silhouette, 2018](images/hawk.jpeg){width="354"}
 
 ![Peregrine falcon, 2021 // 💚 Available 💚](images/peregrine.jpeg){width="250"}
