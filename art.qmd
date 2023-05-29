@@ -5,11 +5,11 @@ editor: source
 ---
 
 ::: {layout-nrow="1"}
-![Pigeon, 2023 ~Available~](images/pigeon.jpeg){width="550"}
+![Pigeon, 2023 // 💚 Available 💚](images/pigeon.jpeg){width="550"}
 :::
 
 ::: {layout-nrow="1"}
-![Owl, 2022 ~Available~](images/owl.jpeg){width="275"}
+![Owl, 2022 // 💚 Available 💚](images/owl.jpeg){width="275"}
 
 ![Sunflowers, 2022](images/sunflowers.jpeg){width="475"}
 :::
@@ -19,7 +19,7 @@ editor: source
 :::
 
 ::: {layout-nrow="1"}
-![Peregrine falcon, 2021 ~Available~](images/hawk.jpeg){width="354"}
+![Peregrine falcon, 2021 // 💚 Available 💚](images/hawk.jpeg){width="354"}
 
 ![Hawk silhouette, 2018](images/peregrine.jpeg){width="250"}
 :::
