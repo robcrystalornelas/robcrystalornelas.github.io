@@ -3,6 +3,12 @@ title: "Art"
 format: html
 editor: source
 ---
+::: {layout-nrow="1"}
+![Pickup truck, 2023](images/pickup_truck.jpeg){width="475"}
+
+![Three flowers, 2023 // 💚 Available 💚](images/three_flowers.jpeg){width="275"}
+:::
+
 
 ::: {layout-nrow="1"}
 ![Pigeon, 2023 // 💚 Available 💚](images/pigeon.jpeg){width="550"}
@@ -19,7 +25,7 @@ editor: source
 :::
 
 ::: {layout-nrow="1"}
-![Yosemite sunset, 2020 // 💚 Available 💚](images/yosemite_sunset.jpeg){width="325"}
+![Yosemite sunset, 2020](images/yosemite_sunset.jpeg){width="325"}
 
 ![Miami, 2023 // 💚 Available 💚](images/miami.jpeg){width="325"}
 :::
