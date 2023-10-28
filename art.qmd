@@ -4,9 +4,9 @@ format: html
 editor: source
 ---
 ::: {layout-nrow="1"}
-![Pickup truck, 2023](images/pickup_truck.jpeg){width="475"}
+![Pickup truck, 2023](images/pickup_truck.jpg){width="475"}
 
-![Three flowers, 2023 // 💚 Available 💚](images/three_flowers.jpeg){width="275"}
+![Three flowers, 2023 // 💚 Available 💚](images/three_flowers.jpg){width="275"}
 :::
 
 
