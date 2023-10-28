@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.robcrystalornelas.github.io/portfolio.html</loc>
-    <lastmod>2023-05-29T02:20:50.010Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.robcrystalornelas.github.io/resume.html</loc>
-    <lastmod>2023-05-29T02:20:50.778Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.robcrystalornelas.github.io/publications.html</loc>
-    <lastmod>2023-05-29T02:20:53.774Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.robcrystalornelas.github.io/index.html</loc>
-    <lastmod>2023-05-29T02:20:54.362Z</lastmod>
+    <loc>https://www.robcrystalornelas.github.io/art.html</loc>
+    <lastmod>2023-10-28T20:39:25.646Z</lastmod>
   </url>
   <url>
     <loc>https://www.robcrystalornelas.github.io/research.html</loc>
-    <lastmod>2023-05-29T02:20:54.958Z</lastmod>
+    <lastmod>2023-10-28T20:39:22.326Z</lastmod>
   </url>
   <url>
-    <loc>https://www.robcrystalornelas.github.io/art.html</loc>
-    <lastmod>2023-05-29T02:20:55.310Z</lastmod>
+    <loc>https://www.robcrystalornelas.github.io/index.html</loc>
+    <lastmod>2023-10-28T20:39:21.250Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.robcrystalornelas.github.io/resume.html</loc>
+    <lastmod>2023-10-28T20:39:20.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.robcrystalornelas.github.io/portfolio.html</loc>
+    <lastmod>2023-10-28T20:39:22.002Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.robcrystalornelas.github.io/publications.html</loc>
+    <lastmod>2023-10-28T20:39:25.242Z</lastmod>
   </url>
 </urlset>
