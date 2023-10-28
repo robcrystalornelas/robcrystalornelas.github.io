@@ -12,7 +12,7 @@ format:
 
 ::: column-page-inset
 ::: column-page-inset-left
-💻 Data Analyst @ GitHub working on prompt crafting for Copilot.
+💻 Prompt engineering for Copilot at GitHub.
 
 🌎 Previously, earth science researcher at Lawrence Berkeley National Lab. Check out my [**21 published papers here**](https://robcrystalornelas.github.io/publications.html)
 
